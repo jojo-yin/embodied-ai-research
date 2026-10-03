@@ -1,4 +1,5 @@
 
-# ---- 本地个人文件：不入库，也不公开文件名 ----
+# ---- 本地个人文件：不入库 ----
 CLAUDE.md
 research_roadmap_reference.md
+.venv/
