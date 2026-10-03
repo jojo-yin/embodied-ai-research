@@ -7,8 +7,9 @@ Windows 10/11 x64，需 NVIDIA 显卡（开发机为 RTX 5070，驱动 592.01）
 ## 复现
 
 ```powershell
+git clone https://github.com/jojo-yin/embodied-ai-research.git
+cd embodied-ai-research
 winget install --id astral-sh.uv -e
-cd <仓库路径>/embodied-ai-research
 uv sync
 ```
 
